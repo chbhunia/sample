@@ -1,0 +1,5 @@
+git config --global sendemail.smtpencryption tls
+git config --global sendemail.smtpserver smtp.office365.com
+git config --global sendemail.smtpuser chanchal.bhunia@keysight.com
+git config --global sendemail.smtpserverport 587 
+git config sendemail.to chanchal.bhunia@keysight.com
